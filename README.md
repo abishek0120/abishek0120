@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abishek0120
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning python(pandas) and database management system
+- 🌱 I’m currently learning python(django) and node js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me (email:tstark0120@gmail.com)
 
